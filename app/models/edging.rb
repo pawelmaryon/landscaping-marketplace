@@ -1,0 +1,2 @@
+class Edging < ApplicationRecord
+end

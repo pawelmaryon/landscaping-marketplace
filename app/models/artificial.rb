@@ -1,0 +1,2 @@
+class Artificial < ApplicationRecord
+end

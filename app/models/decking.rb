@@ -1,0 +1,2 @@
+class Decking < ApplicationRecord
+end

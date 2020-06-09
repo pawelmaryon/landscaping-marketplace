@@ -1,0 +1,2 @@
+class Patio < ApplicationRecord
+end

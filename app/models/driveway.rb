@@ -1,0 +1,2 @@
+class Driveway < ApplicationRecord
+end
